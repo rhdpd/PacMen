@@ -3,4 +3,4 @@
 
 ### You can view the PacMan animation <a href="https://rhdpd.github.io/PacMen/"> PacMan </a>
 
-Future state: I would like to add multiple pacman with different color and potential integrate with server to have user insert their choice of pacman image.
+🔮 Future ideas - I would like to add multiple pacman with different color and potential integrate with server to have user insert their choice of pacman image.
